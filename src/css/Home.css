@@ -1,0 +1,11 @@
+
+
+@media screen and (max-width: 468px) {
+    .card_text p {
+        text-align: center;
+    }
+    .card_text button {
+        text-align: center;
+        margin: 1rem auto;
+    }
+}
